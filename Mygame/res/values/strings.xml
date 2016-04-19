@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mygame</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="about">About</string>
+    <string name="name">DEVELOPER:</string>
+    <string name="me">ASHFAQUL HAQUE         ID: 12.01.04.109</string>
+    <string name="aq">TASIR AQUIB KHAN     ID: 12.01.04.117</string>
+    <string name="BACK">BACK</string>
+    <string name="dev">NOT YET DEVELOPED</string>
+
+</resources>
